@@ -1,12 +1,8 @@
 # RESTful API
 
-This repository is only for educational purposes. You will find the basic implementation of a RESTful API in the [Go Programming Language](https://golang.org/) using [gorilla/mux](https://github.com/gorilla/mux)
+This repository is only for educational purposes. You will find a basic implementation of a RESTful API in the [Go Programming Language](https://golang.org/) using [gorilla/mux](https://github.com/gorilla/mux)
 
 If you are going to create a RESTful API, you would need somewhere to store and retrieve data. However, that is beyond the scope of this repository, so I simply created a very crude (and not thread safe) mock database.
-
-### Running
-
-You will find an executable called go-restfull-api.exe in the repository.
 
 
 ### Building
